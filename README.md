@@ -13,5 +13,11 @@
 
 ## Core 
 
--Create endpoints in the project to GET/POST/PUT/DELETE a Product  
+-Add the exercise.console application to a docker container
+
+## Extension
+
+-Create a Postgres container locally and update the ProductInventory methods to Create/Read/Delete to the new data store.
+
+
 
