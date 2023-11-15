@@ -2,8 +2,7 @@
 
 ## Learning Objectives  
 
-- Create a WebApi project with endpoints  
-- Deploy this project to a Docker Container  
+- Deploy an application to a Docker Container  
 
 ## Instructions  
 
