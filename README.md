@@ -12,7 +12,7 @@
 
 ## Introduction  
 
-In this exercise you will be deploying a small console application which manages the Boolean Shop. 
+In this exercise you will be deploying a small console application which manages a Boolean Shop. The app lists/adds/deletes products and the ite
 
 ## Core 
 
@@ -20,8 +20,11 @@ In this exercise you will be deploying a small console application which manages
 
 ## Extension
 
-- Create a Postgres container locally and update the application to point to this database.
-- ProductInventory methods Create/Read/Delete should write to the new data store via a DbContext.  
+- Create a Postgres container locally and update the application to point to this database. Populate the database with the current products and add some more if you wish.
+- Add a Product model, install any nuget packages needed, run migrations to populate the database.
+- Update the `ProductInventory.cs` methods Create/Read/Delete as they should write to the new data store via a DbContext.
+- Write clean code and comment with XML comments where necessary
+- Remove any legacy code
 
 
 
