@@ -12,7 +12,7 @@
 
 ## Introduction  
 
-In this exercise you will be deploying a small console application which manages a Boolean Shop. The app lists/adds/deletes products and the ite
+In this exercise you will be Dockerizing a small console application which manages a Boolean Shop. The app lists/adds/deletes products using a static list.
 
 ## Core 
 
