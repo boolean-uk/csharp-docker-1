@@ -10,13 +10,18 @@
 2. Clone the fork to your machine  
 3. Open in Visual Studio  
 
+## Introduction  
+
+In this exercise you will be deploying a small console application which manages the Boolean Shop. 
+
 ## Core 
 
--Add the exercise.console application to a docker container
+- Add the exercise.console application to a docker container
 
 ## Extension
 
--Create a Postgres container locally and update the ProductInventory methods to Create/Read/Delete to the new data store.
+- Create a Postgres container locally and update the application to point to this database.
+- ProductInventory methods Create/Read/Delete should write to the new data store via a DbContext.  
 
 
 
